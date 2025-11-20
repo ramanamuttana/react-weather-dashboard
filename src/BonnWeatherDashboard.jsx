@@ -33,7 +33,7 @@ const BonnWeatherDashboard = () => {
             <YAxis />
             <Tooltip />
             <Legend />
-            <Line type="monotone" dataKey="avgTemp" stroke="#8884d8" activeDot={{ r: 8 }} />
+            <Line type="monotone" dataKey="avgTemp" stroke="#8884d8" activeDot={{ r: 8 }} />  # data key will take one value from the given chart of data 
           </LineChart>
         </ResponsiveContainer>
       </div>
