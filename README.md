@@ -1,4 +1,4 @@
-# react-dashboard
+# react-weather-dashboard
 
 1) npm install
 2) npm start
