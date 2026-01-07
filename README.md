@@ -1,4 +1,5 @@
 # react-weather-dashboard
+Note: Static demo web application deployed in Docker for testing purposes. 
 
 1) npm install
 2) npm start
