@@ -159,7 +159,7 @@ const BonnWeatherDashboard = ({ activeMenu = 'dashboard' }) => {
                   <YAxis />
                   <Tooltip />
                   <Legend />
-                  <Bar dataKey="rainyDays" fill="#4a90e2" />
+                  <Bar dataKey="rainyDays" fill="#3f86d8ff" />
                 </BarChart>
               </ResponsiveContainer>
             </div>
