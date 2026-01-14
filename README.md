@@ -3,8 +3,8 @@
 ````md
 # React Weather Dashboard 🌦️
 
-A **static React-based Weather Dashboard** application built for demonstration and testing purposes.  
-The application is packaged as a Docker image and supports **versioned deployments**, making it suitable for **Blue-Green** and **Canary deployment strategies**.
+A static React-based Weather Dashboard application built for demonstration and testing purposes.  
+The application is packaged as a Docker image and supports versioned deployments, making it suitable for Blue-Green and Canary deployment strategies.
 
 ---
 
